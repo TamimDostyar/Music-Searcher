@@ -2,4 +2,5 @@ In crafting this Python application, I've seamlessly integrated powerful librari
 
 
 Remember:
-  When you use this code, you need to install all the required libraries and choose Python 3.11.4 ("Base") Conda to enjoy accessing all the   functions of the code.
+  1)- When you use this code, you need to install all the required libraries and choose Python 3.11.4 ("Base") Conda to enjoy accessing all the functions of the code.
+  2)- You will need to install the required libraries.
